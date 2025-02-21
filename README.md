@@ -95,7 +95,7 @@ The system serves both frontend and backend using two EC2 instances (one for eac
 ## Getting Started
 
 ### Architecture
- <img src="/Users/mayuripalve/Documents/project/image/aws.png" alt="Employee Managment System" width="900" height="700">  
+ <img src="aws.png" alt="Employee Managment System" width="900" height="700">  
 
 
 ### Prerequisites
