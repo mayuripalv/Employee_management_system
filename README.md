@@ -422,7 +422,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Your Name - [Mayuri palve] - mayuripalve55@gmail.com
 
-Project Link: [https://github.com/mayuripalv/Employee_management_system.git](https://github.com/mayuripalv/Employee_management_system.git)
+Project Link: [https://github.com/mayuripalv/frontend-demo-aws-terraform-shrikant-1.git](https://github.com/mayuripalv/frontend-demo-aws-terraform-shrikant-1.git)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
